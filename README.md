@@ -4,12 +4,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  
+  <a href="https://www.linkedin.com/in/charles-karira-1019551b0/">
 <img src="https://img.shields.io/badge/LinkedIn-blue" />
-  
+    </a>
+  <a href= "https://hackster-origin.medium.com/"
   <img src="https://img.shields.io/badge/Meduim-black" />
-  
+  </a>
+  <a href="https://twitter.com/c_karira">
   <img src="https://img.shields.io/badge/Twitter-lightblue" />
+  </a>
   
   </div>
 <!--
