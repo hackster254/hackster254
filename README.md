@@ -5,13 +5,13 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/charles-karira-1019551b0/">
-<img src="https://img.shields.io/badge/LinkedIn-blue" />
-    </a>
-  <a href= "https://hackster-origin.medium.com/"
-  <img src="https://img.shields.io/badge/Medium-black" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue" />
+  </a>
+  <a href= "https://hackster-origin.medium.com/">
+   <img src="https://img.shields.io/badge/Medium-black" />
   </a>
   <a href="https://twitter.com/c_karira">
-  <img src="https://img.shields.io/badge/Twitter-lightblue" />
+    <img src="https://img.shields.io/badge/Twitter-lightblue" />
   </a>
   
   </div>
