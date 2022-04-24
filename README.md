@@ -23,6 +23,14 @@
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+
+- 🔭 I’m working as Software Engineer and contributing to frontend and backend web applications.
+- 🌱 I’m currently learning GraphQL and Azure
+- 👯 I’m looking to collaborate on REST API's
+- 💬 Ask me about anything Tesla and EVs 🔌 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-karira-1019551b0/)
+ 
+
 <!--
 **hackster254/hackster254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
