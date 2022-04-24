@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href= "https://hackster-origin.medium.com/">
-   <img src="https://img.shields.io/badge/Medium-black" />
+   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://twitter.com/c_karira">
     <img src="https://img.shields.io/badge/Twitter-lightblue" />
