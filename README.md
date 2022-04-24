@@ -5,7 +5,7 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/charles-karira-1019551b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href= "https://hackster-origin.medium.com/">
    <img src="https://img.shields.io/badge/Medium-black" />
