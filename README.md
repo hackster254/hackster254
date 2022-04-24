@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://twitter.com/c_karira">
-    <img src="https://img.shields.io/badge/Twitter-lightblue" />
+    <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   
   </div>
