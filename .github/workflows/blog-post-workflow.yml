@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ./.github/actions/Latest-blog-post-workflow
+      - uses: ./.github/actions/Latest blog post workflow
         with:
           max_post_count: "3"
           feed_list: "https://medium.com/feed/@hackster-origin"
