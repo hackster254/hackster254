@@ -9,6 +9,8 @@
   
   <img src="https://img.shields.io/badge/Meduim-black" />
   
+  <img src="https://img.shields.io/badge/Twitter-lightblue" />
+  
   </div>
 <!--
 **hackster254/hackster254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
