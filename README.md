@@ -58,6 +58,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Input Validation in React Hook Form &amp; sending emails using EmailJS in ReactJS](https://hackster-origin.medium.com/input-validation-in-react-hook-form-sending-emails-using-emailjs-in-reactjs-8c6280405cc3?source=rss-ec3d9dd3a2f4------2)
+- [Cookies, lets bake this happen](https://hackster-origin.medium.com/cookies-lets-bake-this-happen-bbcc51a13aac?source=rss-ec3d9dd3a2f4------2)
+- [Pointing your Heroku app to a Custom Domain, what a nightmare at first!](https://hackster-origin.medium.com/pointing-your-heroku-app-to-a-custom-domain-what-a-nightmare-at-first-f2b112e21135?source=rss-ec3d9dd3a2f4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
